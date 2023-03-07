@@ -1,4 +1,3 @@
--- Active: 1672240254045@@127.0.0.1@3306
 CREATE DATABASE hms;
 USE hms;
 CREATE TABLE hotel(hno INT(2) PRIMARY KEY, hname VARCHAR(30), hadd VARCHAR(50), rooms INT(3), rating FLOAT);
