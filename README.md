@@ -1,6 +1,5 @@
 # Hotel Management System (HMS)
-<br>
-<h3>A site to manage and keep the data of number of Hotels up to date.</h3><br>
+<h3>A site to manage and keep the data of number of Hotels up to date.</h3>
 Screenshots:<br>
 <i>Data in these images is only for display purpose</i><br>
 <br><i>Home Page:</i>
